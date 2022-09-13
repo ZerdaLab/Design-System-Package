@@ -1,0 +1,71 @@
+{
+  "asset": {
+    "font": {
+      "icon": {
+        "name": {
+          "value": "MaterialIcons"
+        },
+        "ttf": {
+          "value": "assets/fonts/MaterialIcons-Regular.ttf"
+        },
+        "eot": {
+          "value": "assets/fonts/MaterialIcons-Regular.eot"
+        },
+        "woff": {
+          "value": "assets/fonts/MaterialIcons-Regular.woff"
+        },
+        "woff2": {
+          "value": "assets/fonts/MaterialIcons-Regular.woff2"
+        }
+      },
+      "opensans": {
+        "name": {
+          "value": "Open Sans"
+        },
+        "ttf": {
+          "value": "assets/fonts/OpenSans-Regular.ttf"
+        }
+      },
+      "roboto": {
+        "name": {
+          "value": "Roboto"
+        },
+        "ttf": {
+          "value": "assets/fonts/Roboto-Regular.ttf"
+        }
+      },
+      "candara": {
+        "name": {
+          "value": "Candara"
+        },
+        "ttf": {
+          "value": "assets/fonts/Candara.ttf"
+        }
+      },
+      "candara_italic": {
+        "name": {
+          "value": "Candara Italic"
+        },
+        "ttf": {
+          "value": "assets/fonts/Candara_Italic.ttf"
+        }
+      },
+      "candara_bold": {
+        "name": {
+          "value": "Candara Bold"
+        },
+        "ttf": {
+          "value": "assets/fonts/Candara_Bold.ttf"
+        }
+      },
+      "candara_bold_italic": {
+        "name": {
+          "value": "Candara Bold Italic"
+        },
+        "ttf": {
+          "value": "assets/fonts/Candara_Bold_Italic.ttf"
+        }
+      }
+    }
+  }
+}

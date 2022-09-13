@@ -1,0 +1,968 @@
+{
+    "color": {
+        "extended": {
+            "Background": {
+                "dark": {
+                    "background": {
+                        "value": "#b5c4ff"
+                    },
+                    "background-container": {
+                        "value": "#274190"
+                    },
+                    "on-background": {
+                        "value": "#062978"
+                    },
+                    "on-background-container": {
+                        "value": "#dce1ff"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#00164e"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#062978"
+                    },
+                    "tone30": {
+                        "value": "#274190"
+                    },
+                    "tone40": {
+                        "value": "#415aa9"
+                    },
+                    "tone50": {
+                        "value": "#5b73c4"
+                    },
+                    "tone60": {
+                        "value": "#758de0"
+                    },
+                    "tone70": {
+                        "value": "#8fa7fd"
+                    },
+                    "tone80": {
+                        "value": "#b5c4ff"
+                    },
+                    "tone90": {
+                        "value": "#dce1ff"
+                    },
+                    "tone95": {
+                        "value": "#eff0ff"
+                    },
+                    "tone99": {
+                        "value": "#fefbff"
+                    }
+                },
+                "light": {
+                    "background": {
+                        "value": "#415aa9"
+                    },
+                    "background-container": {
+                        "value": "#dce1ff"
+                    },
+                    "on-background": {
+                        "value": "#ffffff"
+                    },
+                    "on-background-container": {
+                        "value": "#00164e"
+                    }
+                },
+                "value": {
+                    "value": "#080a12"
+                }
+            },
+            "Call to action": {
+                "dark": {
+                    "call to action": {
+                        "value": "#ffb3ae"
+                    },
+                    "call to action-container": {
+                        "value": "#8e111b"
+                    },
+                    "on-call to action": {
+                        "value": "#68000d"
+                    },
+                    "on-call to action-container": {
+                        "value": "#ffdad7"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#410005"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#68000d"
+                    },
+                    "tone30": {
+                        "value": "#8e111b"
+                    },
+                    "tone40": {
+                        "value": "#b02c30"
+                    },
+                    "tone50": {
+                        "value": "#d24545"
+                    },
+                    "tone60": {
+                        "value": "#f45e5c"
+                    },
+                    "tone70": {
+                        "value": "#ff8983"
+                    },
+                    "tone80": {
+                        "value": "#ffb3ae"
+                    },
+                    "tone90": {
+                        "value": "#ffdad7"
+                    },
+                    "tone95": {
+                        "value": "#ffedeb"
+                    },
+                    "tone99": {
+                        "value": "#fffbff"
+                    }
+                },
+                "light": {
+                    "call to action": {
+                        "value": "#b02c30"
+                    },
+                    "call to action-container": {
+                        "value": "#ffdad7"
+                    },
+                    "on-call to action": {
+                        "value": "#ffffff"
+                    },
+                    "on-call to action-container": {
+                        "value": "#410005"
+                    }
+                },
+                "value": {
+                    "value": "#c53c3d"
+                }
+            },
+            "Graphs Primary Algs Alt": {
+                "dark": {
+                    "graph primary algs alt": {
+                        "value": "#cdcd30"
+                    },
+                    "graph primary algs alt-container": {
+                        "value": "#494900"
+                    },
+                    "on-graph primary algs alt": {
+                        "value": "#323200"
+                    },
+                    "on-graph primary algs alt-container": {
+                        "value": "#e9e94c"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#1d1d00"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#323200"
+                    },
+                    "tone30": {
+                        "value": "#494900"
+                    },
+                    "tone40": {
+                        "value": "#626200"
+                    },
+                    "tone50": {
+                        "value": "#7b7b00"
+                    },
+                    "tone60": {
+                        "value": "#969600"
+                    },
+                    "tone70": {
+                        "value": "#b1b10a"
+                    },
+                    "tone80": {
+                        "value": "#cdcd30"
+                    },
+                    "tone90": {
+                        "value": "#e9e94c"
+                    },
+                    "tone95": {
+                        "value": "#f8f859"
+                    },
+                    "tone99": {
+                        "value": "#fffbff"
+                    }
+                },
+                "light": {
+                    "graph primary algs alt": {
+                        "value": "#626200"
+                    },
+                    "graph primary algs alt-container": {
+                        "value": "#e9e94c"
+                    },
+                    "on-graph primary algs alt": {
+                        "value": "#ffffff"
+                    },
+                    "on-graph primary algs alt-container": {
+                        "value": "#1d1d00"
+                    }
+                },
+                "value": {
+                    "value": "#baba1a"
+                }
+            },
+            "Graphs Primary Algs": {
+                "dark": {
+                    "graph primary algs": {
+                        "value": "#ffb77d"
+                    },
+                    "graph primary algs-container": {
+                        "value": "#6e3900"
+                    },
+                    "on-graph primary algs": {
+                        "value": "#4d2600"
+                    },
+                    "on-graph primary algs-container": {
+                        "value": "#ffdcc3"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#2f1500"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#4d2600"
+                    },
+                    "tone30": {
+                        "value": "#6e3900"
+                    },
+                    "tone40": {
+                        "value": "#904d00"
+                    },
+                    "tone50": {
+                        "value": "#b16312"
+                    },
+                    "tone60": {
+                        "value": "#d17c2c"
+                    },
+                    "tone70": {
+                        "value": "#f09644"
+                    },
+                    "tone80": {
+                        "value": "#ffb77d"
+                    },
+                    "tone90": {
+                        "value": "#ffdcc3"
+                    },
+                    "tone95": {
+                        "value": "#ffede3"
+                    },
+                    "tone99": {
+                        "value": "#fffbff"
+                    }
+                },
+                "light": {
+                    "graph primary algs": {
+                        "value": "#904d00"
+                    },
+                    "graph primary algs-container": {
+                        "value": "#ffdcc3"
+                    },
+                    "on-graph primary algs": {
+                        "value": "#ffffff"
+                    },
+                    "on-graph primary algs-container": {
+                        "value": "#2f1500"
+                    }
+                },
+                "value": {
+                    "value": "#ba6a1a"
+                }
+            },
+            "Graphs Primary Alt": {
+                "dark": {
+                    "graph primary alt": {
+                        "value": "#ffb4ab"
+                    },
+                    "graph primary alt-container": {
+                        "value": "#930009"
+                    },
+                    "on-graph primary alt": {
+                        "value": "#690004"
+                    },
+                    "on-graph primary alt-container": {
+                        "value": "#ffdad5"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#410002"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#690004"
+                    },
+                    "tone30": {
+                        "value": "#930009"
+                    },
+                    "tone40": {
+                        "value": "#ba1a1a"
+                    },
+                    "tone50": {
+                        "value": "#de372f"
+                    },
+                    "tone60": {
+                        "value": "#ff5449"
+                    },
+                    "tone70": {
+                        "value": "#ff897d"
+                    },
+                    "tone80": {
+                        "value": "#ffb4ab"
+                    },
+                    "tone90": {
+                        "value": "#ffdad5"
+                    },
+                    "tone95": {
+                        "value": "#ffedea"
+                    },
+                    "tone99": {
+                        "value": "#fffbff"
+                    }
+                },
+                "light": {
+                    "graph primary alt": {
+                        "value": "#ba1a1a"
+                    },
+                    "graph primary alt-container": {
+                        "value": "#ffdad5"
+                    },
+                    "on-graph primary alt": {
+                        "value": "#ffffff"
+                    },
+                    "on-graph primary alt-container": {
+                        "value": "#410002"
+                    }
+                },
+                "value": {
+                    "value": "#ba1a1a"
+                }
+            },
+            "Graphs Primary Comp": {
+                "dark": {
+                    "graphs primary comp": {
+                        "value": "#4cdada"
+                    },
+                    "graphs primary comp-container": {
+                        "value": "#004f50"
+                    },
+                    "on-graphs primary comp": {
+                        "value": "#003737"
+                    },
+                    "on-graphs primary comp-container": {
+                        "value": "#6ff7f6"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#002020"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#003737"
+                    },
+                    "tone30": {
+                        "value": "#004f50"
+                    },
+                    "tone40": {
+                        "value": "#006a6a"
+                    },
+                    "tone50": {
+                        "value": "#008585"
+                    },
+                    "tone60": {
+                        "value": "#00a1a1"
+                    },
+                    "tone70": {
+                        "value": "#1ebebe"
+                    },
+                    "tone80": {
+                        "value": "#4cdada"
+                    },
+                    "tone90": {
+                        "value": "#6ff7f6"
+                    },
+                    "tone95": {
+                        "value": "#adfffe"
+                    },
+                    "tone99": {
+                        "value": "#f1fffe"
+                    }
+                },
+                "light": {
+                    "graphs primary comp": {
+                        "value": "#006a6a"
+                    },
+                    "graphs primary comp-container": {
+                        "value": "#6ff7f6"
+                    },
+                    "on-graphs primary comp": {
+                        "value": "#ffffff"
+                    },
+                    "on-graphs primary comp-container": {
+                        "value": "#002020"
+                    }
+                },
+                "value": {
+                    "value": "#1ababa"
+                }
+            },
+            "Graphs Primary Split Comp": {
+                "dark": {
+                    "graphs primary splitcomp": {
+                        "value": "#51e08b"
+                    },
+                    "graphs primary splitcomp-container": {
+                        "value": "#00522b"
+                    },
+                    "on-graphs primary splitcomp": {
+                        "value": "#00391c"
+                    },
+                    "on-graphs primary splitcomp-container": {
+                        "value": "#70fda5"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#00210e"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#00391c"
+                    },
+                    "tone30": {
+                        "value": "#00522b"
+                    },
+                    "tone40": {
+                        "value": "#006d3a"
+                    },
+                    "tone50": {
+                        "value": "#00894b"
+                    },
+                    "tone60": {
+                        "value": "#00a65c"
+                    },
+                    "tone70": {
+                        "value": "#2bc372"
+                    },
+                    "tone80": {
+                        "value": "#51e08b"
+                    },
+                    "tone90": {
+                        "value": "#70fda5"
+                    },
+                    "tone95": {
+                        "value": "#c3ffd0"
+                    },
+                    "tone99": {
+                        "value": "#f5fff3"
+                    }
+                },
+                "light": {
+                    "graphs primary splitcomp": {
+                        "value": "#006d3a"
+                    },
+                    "graphs primary splitcomp-container": {
+                        "value": "#70fda5"
+                    },
+                    "on-graphs primary splitcomp": {
+                        "value": "#ffffff"
+                    },
+                    "on-graphs primary splitcomp-container": {
+                        "value": "#00210e"
+                    }
+                },
+                "value": {
+                    "value": "#1aba6a"
+                }
+            },
+            "Graphs Primary Sqr": {
+                "dark": {
+                    "graphs primary sqr": {
+                        "value": "#4cdada"
+                    },
+                    "graphs primary sqr-container": {
+                        "value": "#004f50"
+                    },
+                    "on-graphs primary sqr": {
+                        "value": "#003737"
+                    },
+                    "on-graphs primary sqr-container": {
+                        "value": "#6ff7f6"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#002020"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#003737"
+                    },
+                    "tone30": {
+                        "value": "#004f50"
+                    },
+                    "tone40": {
+                        "value": "#006a6a"
+                    },
+                    "tone50": {
+                        "value": "#008585"
+                    },
+                    "tone60": {
+                        "value": "#00a1a1"
+                    },
+                    "tone70": {
+                        "value": "#1ebebe"
+                    },
+                    "tone80": {
+                        "value": "#4cdada"
+                    },
+                    "tone90": {
+                        "value": "#6ff7f6"
+                    },
+                    "tone95": {
+                        "value": "#adfffe"
+                    },
+                    "tone99": {
+                        "value": "#f1fffe"
+                    }
+                },
+                "light": {
+                    "graphs primary sqr": {
+                        "value": "#006a6a"
+                    },
+                    "graphs primary sqr-container": {
+                        "value": "#6ff7f6"
+                    },
+                    "on-graphs primary sqr": {
+                        "value": "#ffffff"
+                    },
+                    "on-graphs primary sqr-container": {
+                        "value": "#002020"
+                    }
+                },
+                "value": {
+                    "value": "#1ababa"
+                }
+            },
+            "Graphs Primary Triad Alt": {
+                "dark": {
+                    "graphs primary triad alt": {
+                        "value": "#bfc1ff"
+                    },
+                    "graphs primary triad alt-container": {
+                        "value": "#292cc4"
+                    },
+                    "on-graphs primary triad alt": {
+                        "value": "#0800ab"
+                    },
+                    "on-graphs primary triad alt-container": {
+                        "value": "#e1e0ff"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#03006d"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#0800ab"
+                    },
+                    "tone30": {
+                        "value": "#292cc4"
+                    },
+                    "tone40": {
+                        "value": "#444adb"
+                    },
+                    "tone50": {
+                        "value": "#5f65f6"
+                    },
+                    "tone60": {
+                        "value": "#7e84ff"
+                    },
+                    "tone70": {
+                        "value": "#9ea3ff"
+                    },
+                    "tone80": {
+                        "value": "#bfc1ff"
+                    },
+                    "tone90": {
+                        "value": "#e1e0ff"
+                    },
+                    "tone95": {
+                        "value": "#f1efff"
+                    },
+                    "tone99": {
+                        "value": "#fffbff"
+                    }
+                },
+                "light": {
+                    "graphs primary triad alt": {
+                        "value": "#444adb"
+                    },
+                    "graphs primary triad alt-container": {
+                        "value": "#e1e0ff"
+                    },
+                    "on-graphs primary triad alt": {
+                        "value": "#ffffff"
+                    },
+                    "on-graphs primary triad alt-container": {
+                        "value": "#03006d"
+                    }
+                },
+                "value": {
+                    "value": "#1a1aba"
+                }
+            },
+            "Graphs Primary Triad": {
+                "dark": {
+                    "graphs primary triad": {
+                        "value": "#50e243"
+                    },
+                    "graphs primary triad-container": {
+                        "value": "#005302"
+                    },
+                    "on-graphs primary triad": {
+                        "value": "#003a01"
+                    },
+                    "on-graphs primary triad-container": {
+                        "value": "#76ff64"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#002200"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#003a01"
+                    },
+                    "tone30": {
+                        "value": "#005302"
+                    },
+                    "tone40": {
+                        "value": "#006e04"
+                    },
+                    "tone50": {
+                        "value": "#008b07"
+                    },
+                    "tone60": {
+                        "value": "#00a80b"
+                    },
+                    "tone70": {
+                        "value": "#2dc527"
+                    },
+                    "tone80": {
+                        "value": "#50e243"
+                    },
+                    "tone90": {
+                        "value": "#76ff64"
+                    },
+                    "tone95": {
+                        "value": "#caffb9"
+                    },
+                    "tone99": {
+                        "value": "#f7ffee"
+                    }
+                },
+                "light": {
+                    "graphs primary triad": {
+                        "value": "#006e04"
+                    },
+                    "graphs primary triad-container": {
+                        "value": "#76ff64"
+                    },
+                    "on-graphs primary triad": {
+                        "value": "#ffffff"
+                    },
+                    "on-graphs primary triad-container": {
+                        "value": "#002200"
+                    }
+                },
+                "value": {
+                    "value": "#1aba1a"
+                }
+            },
+            "Graphs Primary": {
+                "dark": {
+                    "graphs primary": {
+                        "value": "#ffb4a6"
+                    },
+                    "graphs primary-container": {
+                        "value": "#900e00"
+                    },
+                    "on-graphs primary": {
+                        "value": "#660700"
+                    },
+                    "on-graphs primary-container": {
+                        "value": "#ffdad4"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#3f0300"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#660700"
+                    },
+                    "tone30": {
+                        "value": "#900e00"
+                    },
+                    "tone40": {
+                        "value": "#ba1b05"
+                    },
+                    "tone50": {
+                        "value": "#de371f"
+                    },
+                    "tone60": {
+                        "value": "#ff553b"
+                    },
+                    "tone70": {
+                        "value": "#ff8a75"
+                    },
+                    "tone80": {
+                        "value": "#ffb4a6"
+                    },
+                    "tone90": {
+                        "value": "#ffdad4"
+                    },
+                    "tone95": {
+                        "value": "#ffede9"
+                    },
+                    "tone99": {
+                        "value": "#fffbff"
+                    }
+                },
+                "light": {
+                    "graphs primary": {
+                        "value": "#ba1b05"
+                    },
+                    "graphs primary-container": {
+                        "value": "#ffdad4"
+                    },
+                    "on-graphs primary": {
+                        "value": "#ffffff"
+                    },
+                    "on-graphs primary-container": {
+                        "value": "#3f0300"
+                    }
+                },
+                "value": {
+                    "value": "#ff4e33"
+                }
+            },
+            "Primary Alt": {
+                "dark": {
+                    "on-primary alt": {
+                        "value": "#581e00"
+                    },
+                    "on-primary alt-container": {
+                        "value": "#ffdbcd"
+                    },
+                    "primary alt": {
+                        "value": "#ffb596"
+                    },
+                    "primary alt-container": {
+                        "value": "#7d2d00"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#360f00"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#581e00"
+                    },
+                    "tone30": {
+                        "value": "#7d2d00"
+                    },
+                    "tone40": {
+                        "value": "#a33e01"
+                    },
+                    "tone50": {
+                        "value": "#c4551d"
+                    },
+                    "tone60": {
+                        "value": "#e56e34"
+                    },
+                    "tone70": {
+                        "value": "#ff8c58"
+                    },
+                    "tone80": {
+                        "value": "#ffb596"
+                    },
+                    "tone90": {
+                        "value": "#ffdbcd"
+                    },
+                    "tone95": {
+                        "value": "#ffede7"
+                    },
+                    "tone99": {
+                        "value": "#fffbff"
+                    }
+                },
+                "light": {
+                    "on-primary alt": {
+                        "value": "#ffffff"
+                    },
+                    "on-primary alt-container": {
+                        "value": "#360f00"
+                    },
+                    "primary alt": {
+                        "value": "#a33e01"
+                    },
+                    "primary alt-container": {
+                        "value": "#ffdbcd"
+                    }
+                },
+                "value": {
+                    "value": "#a23d00"
+                }
+            },
+            "Secondary Alt": {
+                "dark": {
+                    "on-secondary alt": {
+                        "value": "#492900"
+                    },
+                    "on-secondary alt-container": {
+                        "value": "#ffdcbd"
+                    },
+                    "secondary alt": {
+                        "value": "#ffb86d"
+                    },
+                    "secondary alt-container": {
+                        "value": "#693c00"
+                    }
+                },
+                "group": {
+                    "tone0": {
+                        "value": "#000000"
+                    },
+                    "tone10": {
+                        "value": "#2c1600"
+                    },
+                    "tone100": {
+                        "value": "#ffffff"
+                    },
+                    "tone20": {
+                        "value": "#492900"
+                    },
+                    "tone30": {
+                        "value": "#693c00"
+                    },
+                    "tone40": {
+                        "value": "#8a5100"
+                    },
+                    "tone50": {
+                        "value": "#ac6700"
+                    },
+                    "tone60": {
+                        "value": "#cf7e0b"
+                    },
+                    "tone70": {
+                        "value": "#ef972c"
+                    },
+                    "tone80": {
+                        "value": "#ffb86d"
+                    },
+                    "tone90": {
+                        "value": "#ffdcbd"
+                    },
+                    "tone95": {
+                        "value": "#ffeee0"
+                    },
+                    "tone99": {
+                        "value": "#fffbff"
+                    }
+                },
+                "light": {
+                    "on-secondary alt": {
+                        "value": "#ffffff"
+                    },
+                    "on-secondary alt-container": {
+                        "value": "#2c1600"
+                    },
+                    "secondary alt": {
+                        "value": "#8a5100"
+                    },
+                    "secondary alt-container": {
+                        "value": "#ffdcbd"
+                    }
+                },
+                "value": {
+                    "value": "#e69024"
+                }
+            }
+        }
+    }
+}

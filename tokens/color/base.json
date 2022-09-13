@@ -1,0 +1,278 @@
+{
+  "color": {
+    "key-colors": {
+      "error": {
+        "value": "{color.ref.error.tone40.value}"
+      },
+      "neutral": {
+        "value": "{color.ref.neutral.tone40.value}"
+      },
+      "neutral-variant": {
+        "value": "{color.ref.neutral-variant.tone40.value}"
+      },
+      "primary": {
+        "value": "#f26d22"
+      },
+      "secondary": {
+        "value": "{color.ref.secondary.tone40.value}"
+      },
+      "tertiary": {
+        "value": "{color.ref.tertiary.tone40.value}"
+      },
+      "black": {
+        "value": "#000000"
+      },
+      "white": {
+        "value": "#ffffff"
+      }
+    },
+    "ref": {
+      "error": {
+        "tone0": {
+          "value": "{color.key-colors.black.value}"
+        },
+        "tone10": {
+          "value": "#410002"
+        },
+        "tone100": {
+          "value": "{color.key-colors.white.value}"
+        },
+        "tone20": {
+          "value": "#690005"
+        },
+        "tone30": {
+          "value": "#93000a"
+        },
+        "tone40": {
+          "value": "#ba1a1a"
+        },
+        "tone50": {
+          "value": "#de3730"
+        },
+        "tone60": {
+          "value": "#ff5449"
+        },
+        "tone70": {
+          "value": "#ff897d"
+        },
+        "tone80": {
+          "value": "#ffb4ab"
+        },
+        "tone90": {
+          "value": "#ffdad6"
+        },
+        "tone95": {
+          "value": "#ffedea"
+        },
+        "tone99": {
+          "value": "#fffbff"
+        }
+      },
+      "neutral-variant": {
+        "tone0": {
+          "value": "{color.key-colors.black.value}"
+        },
+        "tone10": {
+          "value": "#251914"
+        },
+        "tone100": {
+          "value": "{color.key-colors.white.value}"
+        },
+        "tone20": {
+          "value": "#3b2d28"
+        },
+        "tone30": {
+          "value": "#52443d"
+        },
+        "tone40": {
+          "value": "#6b5b54"
+        },
+        "tone50": {
+          "value": "#85736c"
+        },
+        "tone60": {
+          "value": "#a08d85"
+        },
+        "tone70": {
+          "value": "#bba79f"
+        },
+        "tone80": {
+          "value": "#d7c2ba"
+        },
+        "tone90": {
+          "value": "#f4ded5"
+        },
+        "tone95": {
+          "value": "#ffede6"
+        },
+        "tone99": {
+          "value": "#fffbff"
+        }
+      },
+      "neutral": {
+        "tone0": {
+          "value": "{color.key-colors.black.value}"
+        },
+        "tone10": {
+          "value": "#201a18"
+        },
+        "tone100": {
+          "value": "{color.key-colors.white.value}"
+        },
+        "tone20": {
+          "value": "#362f2c"
+        },
+        "tone30": {
+          "value": "#4d4542"
+        },
+        "tone40": {
+          "value": "#655d59"
+        },
+        "tone50": {
+          "value": "#7f7571"
+        },
+        "tone60": {
+          "value": "#998f8b"
+        },
+        "tone70": {
+          "value": "#b4a9a5"
+        },
+        "tone80": {
+          "value": "#d0c4c0"
+        },
+        "tone90": {
+          "value": "#ede0db"
+        },
+        "tone95": {
+          "value": "#fvalueee9"
+        },
+        "tone99": {
+          "value": "#fffbff"
+        }
+      },
+      "primary": {
+        "tone0": {
+          "value": "{color.key-colors.black.value}"
+        },
+        "tone10": {
+          "value": "#351000"
+        },
+        "tone100": {
+          "value": "{color.key-colors.white.value}"
+        },
+        "tone20": {
+          "value": "#571f00"
+        },
+        "tone30": {
+          "value": "#7b2f00"
+        },
+        "tone40": {
+          "value": "#a14000"
+        },
+        "tone50": {
+          "value": "#c95100"
+        },
+        "tone60": {
+          "value": "#ed691e"
+        },
+        "tone70": {
+          "value": "#ff8c54"
+        },
+        "tone80": {
+          "value": "#ffb694"
+        },
+        "tone90": {
+          "value": "#ffdbcc"
+        },
+        "tone95": {
+          "value": "#ffede6"
+        },
+        "tone99": {
+          "value": "#fffbff"
+        }
+      },
+      "secondary": {
+        "tone0": {
+          "value": "{color.key-colors.black.value}"
+        },
+        "tone10": {
+          "value": "#2c160c"
+        },
+        "tone100": {
+          "value": "{color.key-colors.white.value}"
+        },
+        "tone20": {
+          "value": "#442a1f"
+        },
+        "tone30": {
+          "value": "#5d4033"
+        },
+        "tone40": {
+          "value": "#76574a"
+        },
+        "tone50": {
+          "value": "#917061"
+        },
+        "tone60": {
+          "value": "#ad8979"
+        },
+        "tone70": {
+          "value": "#c9a393"
+        },
+        "tone80": {
+          "value": "#e6valuead"
+        },
+        "tone90": {
+          "value": "#ffdbcc"
+        },
+        "tone95": {
+          "value": "#ffede6"
+        },
+        "tone99": {
+          "value": "#fffbff"
+        }
+      },
+      "tertiary": {
+        "tone0": {
+          "value": "{color.key-colors.black.value}"
+        },
+        "tone10": {
+          "value": "#201c00"
+        },
+        "tone100": {
+          "value": "{color.key-colors.white.value}"
+        },
+        "tone20": {
+          "value": "#363107"
+        },
+        "tone30": {
+          "value": "#4d471b"
+        },
+        "tone40": {
+          "value": "#665f31"
+        },
+        "tone50": {
+          "value": "#7f7847"
+        },
+        "tone60": {
+          "value": "#9a925e"
+        },
+        "tone70": {
+          "value": "#b5ac76"
+        },
+        "tone80": {
+          "value": "#d1c88f"
+        },
+        "tone90": {
+          "value": "#eee4a9"
+        },
+        "tone95": {
+          "value": "#fcf2b6"
+        },
+        "tone99": {
+          "value": "#fffbff"
+        }
+      }
+    }
+  }
+}

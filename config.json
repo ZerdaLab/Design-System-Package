@@ -1,0 +1,187 @@
+{
+  "source": [
+    "tokens/**/*.json"
+  ],
+  "platforms": {
+    "ios": {
+      "transformGroup": "ios",
+      "buildPath": "build/ios/Classes/Generated/",
+      "prefix": "StyleDictionary",
+      "files": [
+        {
+          "destination": "StyleDictionarySize.h",
+          "format": "ios/static.h",
+          "type": "float",
+          "className": "StyleDictionarySize",
+          "filter": {
+            "attributes": {
+              "category": "size"
+            }
+          }
+        },
+        {
+          "destination": "StyleDictionarySize.m",
+          "format": "ios/static.m",
+          "type": "float",
+          "className": "StyleDictionarySize",
+          "filter": {
+            "attributes": {
+              "category": "size"
+            }
+          }
+        },
+        {
+          "destination": "StyleDictionaryIcons.h",
+          "format": "ios/strings.h",
+          "className": "StyleDictionaryIcons",
+          "filter": {
+            "attributes": {
+              "category": "content",
+              "type": "icon"
+            }
+          }
+        },
+        {
+          "destination": "StyleDictionaryIcons.m",
+          "format": "ios/strings.m",
+          "className": "StyleDictionaryIcons",
+          "filter": {
+            "attributes": {
+              "category": "content",
+              "type": "icon"
+            }
+          }
+        },
+        {
+          "destination": "StyleDictionaryColor.h",
+          "format": "ios/colors.h",
+          "className": "StyleDictionaryColor",
+          "type": "StyleDictionaryColorName",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        },
+        {
+          "destination": "StyleDictionaryColor.m",
+          "format": "ios/colors.m",
+          "className": "StyleDictionaryColor",
+          "type": "StyleDictionaryColorName",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        },
+        {
+          "destination": "StyleDictionaryProperties.h",
+          "format": "ios/singleton.h",
+          "className": "StyleDictionaryProperties"
+        },
+        {
+          "destination": "StyleDictionaryProperties.m",
+          "format": "ios/singleton.m",
+          "className": "StyleDictionaryProperties"
+        }
+      ]
+    },
+    "android": {
+      "transformGroup": "android",
+      "buildPath": "build/android/styledictionary/src/main/res/values/",
+      "files": [
+        {
+          "destination": "style_dictionary_colors.xml",
+          "format": "android/colors"
+        },
+        {
+          "destination": "style_dictionary_font_dimens.xml",
+          "format": "android/fontDimens"
+        },
+        {
+          "destination": "style_dictionary_dimens.xml",
+          "format": "android/dimens"
+        },
+        {
+          "destination": "style_dictionary_integers.xml",
+          "format": "android/integers"
+        },
+        {
+          "destination": "style_dictionary_strings.xml",
+          "format": "android/strings"
+        }
+      ]
+    },
+    "android-asset": {
+      "transformGroup": "android",
+      "buildPath": "build/android/styledictionary/src/main/",
+      "files": [
+        {
+          "destination": "assets/data/properties.json",
+          "format": "json"
+        }
+      ],
+      "actions": [
+        "copy_assets"
+      ]
+    },
+    "ts": {
+      "transformGroup": "js",
+      "buildPath": "build/javascript/",
+      "files": [
+        {
+          "format": "javascript/es6",
+          "destination": "es6/index.js"
+        },
+        {
+          "format": "typescript/es6-declarations",
+          "destination": "es6/index.d.ts"
+        },
+        {
+          "format": "javascript/module",
+          "destination": "module/index.js"
+        },
+        {
+          "format": "typescript/module-declarations",
+          "destination": "module/index.d.ts"
+        },
+        {
+          "format": "javascript/object",
+          "destination": "object/index.js"
+        },
+        {
+          "format": "javascript/umd",
+          "destination": "umd/index.js"
+        }
+      ]
+    },
+    "ts-assets-es6": {
+      "transformGroup": "assets",
+      "buildPath": "build/javascript/es6/",
+      "actions": [
+        "copy_assets"
+      ]
+    },
+    "ts-assets-module": {
+      "transformGroup": "assets",
+      "buildPath": "build/javascript/module/",
+      "actions": [
+        "copy_assets"
+      ]
+    },
+    "ts-assets-object": {
+      "transformGroup": "assets",
+      "buildPath": "build/javascript/object/",
+      "actions": [
+        "copy_assets"
+      ]
+    },
+    "ts-assets-umd": {
+      "transformGroup": "assets",
+      "buildPath": "build/javascript/umd/",
+      "actions": [
+        "copy_assets"
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+    "color": {
+        "sys": {
+            "light": {
+                "background": {
+                    "value": "{color.ref.neutral.tone99.value}"
+                },
+                "error": {
+                    "value": "{color.ref.error.tone40.value}"
+                },
+                "error-container": {
+                    "value": "{color.ref.error.tone90.value}"
+                },
+                "inverse-on-surface": {
+                    "value": "{color.ref.neutral.tone95.value}"
+                },
+                "inverse-surface": {
+                    "value": "{color.ref.neutral.tone20.value}"
+                },
+                "on-background": {
+                    "value": "{color.ref.neutral.tone10.value}"
+                },
+                "on-error": {
+                    "value": "{color.ref.error.tone100.value}"
+                },
+                "on-error-container": {
+                    "value": "{color.ref.error.tone10.value}"
+                },
+                "on-primary": {
+                    "value": "{color.ref.primary.tone100.value}"
+                },
+                "on-primary-container": {
+                    "value": "{color.ref.primary.tone10.value}"
+                },
+                "on-secondary": {
+                    "value": "{color.ref.secondary.tone100.value}"
+                },
+                "on-secondary-container": {
+                    "value": "{color.ref.secondary.tone10.value}"
+                },
+                "on-surface": {
+                    "value": "{color.ref.neutral.tone10.value}"
+                },
+                "on-surface-variant": {
+                    "value": "{color.ref.neutral-variant.tone30.value}"
+                },
+                "on-tertiary": {
+                    "value": "{color.ref.tertiary.tone100.value}"
+                },
+                "on-tertiary-container": {
+                    "value": "{color.ref.tertiary.tone10.value}"
+                },
+                "outline": {
+                    "value": "{color.ref.neutral-variant.tone50.value}"
+                },
+                "primary": {
+                    "value": "{color.key-colors.primary.value}"
+                },
+                "primary-container": {
+                    "value": "{color.ref.primary.tone90.value}"
+                },
+                "secondary": {
+                    "value": "{color.ref.secondary.tone40.value}"
+                },
+                "secondary-container": {
+                    "value": "{color.ref.secondary.tone90.value}"
+                },
+                "surface": {
+                    "value": "{color.ref.neutral.tone99.value}"
+                },
+                "surface-variant": {
+                    "value": "{color.ref.neutral-variant.tone90.value}"
+                },
+                "tertiary": {
+                    "value": "{color.ref.tertiary.tone40.value}"
+                },
+                "tertiary-container": {
+                    "value": "{color.ref.tertiary.tone90.value}"
+                }
+            },
+            "dark": {
+                "background": {
+                    "value": "{color.ref.neutral.tone10.value}"
+                },
+                "error": {
+                    "value": "{color.ref.error.tone80.value}"
+                },
+                "error-container": {
+                    "value": "{color.ref.error.tone30.value}"
+                },
+                "inverse-on-surface": {
+                    "value": "{color.ref.neutral.tone10.value}"
+                },
+                "inverse-surface": {
+                    "value": "{color.ref.neutral.tone90.value}"
+                },
+                "on-background": {
+                    "value": "{color.ref.neutral.tone90.value}"
+                },
+                "on-error": {
+                    "value": "{color.ref.error.tone20.value}"
+                },
+                "on-error-container": {
+                    "value": "{color.ref.error.tone90.value}"
+                },
+                "on-primary": {
+                    "value": "{color.ref.primary.tone20.value}"
+                },
+                "on-primary-container": {
+                    "value": "{color.ref.primary.tone90.value}"
+                },
+                "on-secondary": {
+                    "value": "{color.ref.secondary.tone20.value}"
+                },
+                "on-secondary-container": {
+                    "value": "{color.ref.secondary.tone90.value}"
+                },
+                "on-surface": {
+                    "value": "{color.ref.neutral.tone90.value}"
+                },
+                "on-surface-variant": {
+                    "value": "{color.ref.neutral-variant.tone80.value}"
+                },
+                "on-tertiary": {
+                    "value": "{color.ref.tertiary.tone20.value}"
+                },
+                "on-tertiary-container": {
+                    "value": "{color.ref.tertiary.tone90.value}"
+                },
+                "outline": {
+                    "value": "{color.ref.neutral-variant.tone60.value}"
+                },
+                "primary": {
+                    "value": "{color.key-colors.primary.value}"
+                },
+                "primary-container": {
+                    "value": "{color.ref.primary.tone30.value}"
+                },
+                "secondary": {
+                    "value": "{color.ref.secondary.tone80.value}"
+                },
+                "secondary-container": {
+                    "value": "{color.ref.secondary.tone30.value}"
+                },
+                "surface": {
+                    "value": "{color.ref.neutral.tone10.value}"
+                },
+                "surface-variant": {
+                    "value": "{color.ref.neutral-variant.tone30.value}"
+                },
+                "tertiary": {
+                    "value": "{color.ref.tertiary.tone80.value}"
+                },
+                "tertiary-container": {
+                    "value": "{color.ref.tertiary.tone30.value}"
+                }
+            }
+        }
+    }
+}

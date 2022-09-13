@@ -1,0 +1,13 @@
+{
+  "name": "@zerdalab/style-dictionary-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZerdaLab/Design-System-Package.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
