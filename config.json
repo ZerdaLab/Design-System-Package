@@ -155,6 +155,46 @@
         }
       ]
     },
+    "scss": {
+      "transformGroup": "scss",
+      "buildPath": "build/scss/",
+      "files": [
+        {
+          "format": "scss/variables",
+          "destination": "_variables.scss"
+        }
+      ]
+    },
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "build/css/",
+      "files": [
+        {
+          "format": "css/variables",
+          "destination": "_variables.css"
+        }
+      ]
+    },
+    "less": {
+      "transformGroup": "less",
+      "buildPath": "build/less/",
+      "files": [
+        {
+          "format": "less/variables",
+          "destination": "_variables.less"
+        }
+      ]
+    },
+    "json": {
+      "transformGroup": "js",
+      "buildPath": "build/json/",
+      "files": [
+        {
+          "format": "json/nested",
+          "destination": "_variables.json"
+        }
+      ]
+    },
     "ts-assets-es6": {
       "transformGroup": "assets",
       "buildPath": "build/javascript/es6/",
