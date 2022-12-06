@@ -1,6 +1,7 @@
 # Style Dictionary Complete Example
 
-This starter project has everything you need to get started. 
+This starter project has everything you need to get started.
+The DSP is visible at https://zeroheight.com/6f4e1acc4/p/637624-zerdalab-material
 
 ## How it works
 
